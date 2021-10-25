@@ -4,6 +4,7 @@
     <!-- Strings used for fragments for navigation -->
     <string name="first_fragment_label">第一个对话框</string>
     <string name="second_fragment_label">第二个对话框</string>
+    <string name="test_input_button_label">测试后台获取文本输入框</string>
     <string name="next">跳到下一个对话框</string>
     <string name="previous">跳到上一个对话框</string>
 
